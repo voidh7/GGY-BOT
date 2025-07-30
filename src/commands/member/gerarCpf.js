@@ -34,7 +34,7 @@ function gerarCpfSP() {
 
   return cpfFormatado;
 }
-const cpf = gerarCpfSP()
+
 const imagePath = path.join(ASSETS_DIR,"images","cpf.jpg")
 module.exports ={
   name:"gerarCpf",
@@ -47,7 +47,7 @@ module.exports ={
    * @returns {Promise<void>}
    */
    handle: async ({socket,sendImageFromFile})=>{
-     
+    const cpf = gerarCpfSP() 
      await sendImageFromFile(
        imagePath,
        `cpf gerado:${cpf}`
