@@ -13,7 +13,7 @@
 
 <br />
 
-> Base para bots de WhatsApp multifuncional com diversos comandos prontos.
+> Base para bots de WhatsApp multifuncional com diversos comandos prontos
 
 [![Node.js](https://img.shields.io/badge/Node.js-22.14-green?logo=node.js)](https://nodejs.org/en)
 [![Axios](https://img.shields.io/badge/Axios-1.10-blue?logo=axios)](https://axios-http.com/ptbr/docs/intro)
@@ -21,15 +21,8 @@
 [![FFMPEG](https://img.shields.io/badge/FFMPEG-Latest-orange?logo=ffmpeg)](https://ffmpeg.org/)
 [![Spider X API](https://img.shields.io/badge/Spider_X-API-green?logo=api)](https://api.spiderx.com.br)
 
-## Desenvolvida do zero, no vídeo:
 
-[CRIANDO UM BOT DE WHATSAPP DO ZERO (GUIA DEFINITIVO) - BASE COMPLETA + 6 COMANDOS - JAVASCRIPT](https://youtu.be/6zr2NYIYIyc)
 
-![Logger](./assets/images/logger.png)
-
-## 📋 Sumário
-
-1. [Idiomas disponíveis](#-acesse-o-takeshi-bot-em-outros-idiomas)
 2. [Atenção - suporte](#-atenção)
 3. [Sobre o projeto](#sobre-este-projeto)
 4. [Instalação](#instalação)
@@ -52,22 +45,6 @@
 14. [Licença](#licença)
 15. [Disclaimer](#-disclaimer)
 
-## 🌐 Acesse o Takeshi Bot em outros idiomas
-
-<ul style="list-style: none; padding-left: 0;">
-  <li>
-    <img src="https://flagcdn.com/w40/us.png" width="24" alt="English">
-    <strong>English</strong> — <a href="https://github.com/guiireal/takeshi-bot-english">click here</a>
-  </li>
-  <li>
-    <img src="https://flagcdn.com/w40/es.png" width="24" alt="Español">
-    <strong>Español</strong> — <a href="https://github.com/guiireal/takeshi-bot-espanol">haz clic aquí</a>
-  </li>
-  <li>
-    <img src="https://flagcdn.com/w40/id.png" width="24" alt="Bahasa Indonesia">
-    <strong>Bahasa Indonesia</strong> — <a href="https://github.com/guiireal/takeshi-bot-bahasa-indonesia">klik disini</a>
-  </li>
-</ul>
 
 ## ⚠ Atenção
 
