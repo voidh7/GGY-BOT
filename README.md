@@ -1,7 +1,6 @@
-# 🤖 Takeshi Bot
-
+# 🤖GGY BOT
 <div align="center">
-    <img src="./assets/images/takeshi-bot.png" width="500">
+    <img src="https://dl.dropboxusercontent.com/scl/fi/jdrlg2fdpp62j3un4l0b6/1758209541027.jpeg?rlkey=e52463b1c4wv2noikfyoo10cj&dl=0" width="500">
 </div>
 
 <br />
